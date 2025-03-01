@@ -9,6 +9,7 @@
     margin-right: auto;
     width: 50%;
     height: 50%;
+    height: 120vh;
 }
 
 h1, p {
@@ -22,10 +23,10 @@ p {
 }
 
 body {
-    height: 100%;
     background-image: url("./img/1920x1080.png");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 120vh;
 }
 
 #particles-js {
